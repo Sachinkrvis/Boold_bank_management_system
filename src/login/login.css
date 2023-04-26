@@ -1,0 +1,31 @@
+#parent {
+    display: table;
+    width: 100%;
+    
+
+ }
+ #form_login {
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+    left: 50%;
+    top: 50%;
+    position  : absolute;
+    transform : translate(-50%, -50%);
+    border: 2px black solid;
+    padding: 65px;
+    border-radius: 20px;
+    background-color: rgb(213, 231, 247);
+    
+    
+ }
+
+ #submitbutton{
+    border-radius: 10px;
+    background-color: rgb(60, 164, 60);
+    
+ }
+ #registerbutton{
+   background-color: rgb(36, 87, 217);
+   border-radius: 10px;
+ }

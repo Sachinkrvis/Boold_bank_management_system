@@ -1,0 +1,70 @@
+.single{
+    display: flex;
+    width: 100%;
+}
+   
+.singlecontainer{
+ flex: 6;
+}
+    
+        .left{
+            display: flex;
+            position: relative;
+            padding: 20px;
+            width: 25%;
+            height: 50%;
+            margin-top: 50px;
+            margin-left: 25px;
+    box-shadow: 2px 4px 10px 3px rgba(0,0,0,0.48);
+    -webkit-box-shadow: 2px 4px 10px 3px rgba(0,0,0,0.48);
+    -moz-box-shadow: 2px 4px 10px 3px rgba(0,0,0,0.48);
+    border-radius: 5px;
+    
+        }
+              
+.image{
+    display: flex;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.username{
+    display: flex;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.rightInfo{
+    display: table;
+    margin-top: -30%;
+    margin-left: 35%;
+    width: 60%;
+    height: 55%;
+    box-shadow: 2px 4px 10px 3px rgba(0,0,0,0.48);
+    -webkit-box-shadow: 2px 4px 10px 3px rgba(0,0,0,0.48);
+    -moz-box-shadow: 2px 4px 10px 3px rgba(0,0,0,0.48);
+    border-radius: 5px;
+}
+.rightInfo1{
+    width: 100%;
+    margin-left: 9px;
+
+}
+.recentdata{
+    margin-left: 29px;
+    color: rgb(56, 132, 179);
+}
+.list1{
+    margin-left: 25px;
+    width: 93%;
+    box-shadow: 2px 4px 10px 3px rgba(0,0,0,0.48);
+    -webkit-box-shadow: 2px 4px 10px 3px rgba(0,0,0,0.48);
+    -moz-box-shadow: 2px 4px 10px 3px rgba(0,0,0,0.48);
+    border-radius: 5px;
+}
+button{
+    border-radius: 5px;
+}
+
